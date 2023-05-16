@@ -1,3 +1,3 @@
 <?php
-print "test page for php"
+print "test page for php";
 ?>
